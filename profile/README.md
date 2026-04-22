@@ -1,4 +1,8 @@
-# Fintaxtech Ltd 🚀
+<p align="center">
+
+  <img src="https://fintaxtech.co.uk/ftt_logo.png" width="120" />
+
+</p>Fintaxtech Ltd 🚀
 
 ## 💼 About Us
 Fintaxtech Ltd is a digital agency focused on delivering high-quality, scalable, and modern software solutions. We specialize in mobile and web development, helping businesses build reliable and efficient products.
