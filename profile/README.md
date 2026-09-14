@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://fintaxtech.co.uk/mark.svg" width="120" />
+  <img src="https://fintaxtech.co.uk/ftt_logo.png" width="120" />
 
 </p>Fintaxtech Ltd 🚀
 
